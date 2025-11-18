@@ -1,0 +1,66 @@
+Date : 2025-11-04 23:11:32
+Directory : d:\Full Stack Websites\blogghar
+Total : 29 files,  8469 codes, 4 comments, 128 blanks, all 8601 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      7,368 |          0 |          3 |      7,371 |
+| JavaScript JSX     |         15 |        890 |          0 |         88 |        978 |
+| PostCSS            |          1 |        117 |          0 |          6 |        123 |
+| JavaScript         |          6 |         62 |          4 |         16 |         82 |
+| Markdown           |          1 |         23 |          0 |         14 |         37 |
+| JSON with Comments |          1 |          7 |          0 |          1 |          8 |
+| XML                |          2 |          2 |          0 |          0 |          2 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                               |         29 |      8,469 |          4 |        128 |      8,601 |
+| . (Files)                                                       |          8 |      7,420 |          4 |         25 |      7,449 |
+| app                                                             |          3 |        261 |          0 |         17 |        278 |
+| components                                                      |         13 |        766 |          0 |         80 |        846 |
+| components\ui                                                   |         13 |        766 |          0 |         80 |        846 |
+| constant                                                        |          1 |          6 |          0 |          0 |          6 |
+| lib                                                             |          2 |         14 |          0 |          6 |         20 |
+| public                                                          |          2 |          2 |          0 |          0 |          2 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                        | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\Full Stack Websites\blogghar\README.md                       | Markdown           |         23 |          0 |         14 |         37 |
+| d:\Full Stack Websites\blogghar\app\globals.css                 | PostCSS            |        117 |          0 |          6 |        123 |
+| d:\Full Stack Websites\blogghar\app\layout.js                   | JavaScript         |         26 |          0 |          3 |         29 |
+| d:\Full Stack Websites\blogghar\app\page.jsx                    | JavaScript JSX     |        118 |          0 |          8 |        126 |
+| d:\Full Stack Websites\blogghar\components.json                 | JSON               |         22 |          0 |          1 |         23 |
+| d:\Full Stack Websites\blogghar\components\ui\ListBlogCard.jsx  | JavaScript JSX     |         29 |          0 |          2 |         31 |
+| d:\Full Stack Websites\blogghar\components\ui\blogCard.jsx      | JavaScript JSX     |         33 |          0 |          2 |         35 |
+| d:\Full Stack Websites\blogghar\components\ui\button.jsx        | JavaScript JSX     |         51 |          0 |          6 |         57 |
+| d:\Full Stack Websites\blogghar\components\ui\card.jsx          | JavaScript JSX     |         92 |          0 |         10 |        102 |
+| d:\Full Stack Websites\blogghar\components\ui\container.jsx     | JavaScript JSX     |         15 |          0 |          3 |         18 |
+| d:\Full Stack Websites\blogghar\components\ui\dropdown-menu.jsx | JavaScript JSX     |        205 |          0 |         19 |        224 |
+| d:\Full Stack Websites\blogghar\components\ui\footer.jsx        | JavaScript JSX     |          7 |          0 |          2 |          9 |
+| d:\Full Stack Websites\blogghar\components\ui\input.jsx         | JavaScript JSX     |         21 |          0 |          4 |         25 |
+| d:\Full Stack Websites\blogghar\components\ui\item.jsx          | JavaScript JSX     |        183 |          0 |         15 |        198 |
+| d:\Full Stack Websites\blogghar\components\ui\navbar.jsx        | JavaScript JSX     |         54 |          0 |          5 |         59 |
+| d:\Full Stack Websites\blogghar\components\ui\search_input.jsx  | JavaScript JSX     |         17 |          0 |          2 |         19 |
+| d:\Full Stack Websites\blogghar\components\ui\separator.jsx     | JavaScript JSX     |         23 |          0 |          5 |         28 |
+| d:\Full Stack Websites\blogghar\components\ui\toggleButton.jsx  | JavaScript JSX     |         36 |          0 |          5 |         41 |
+| d:\Full Stack Websites\blogghar\constant\index.jsx              | JavaScript JSX     |          6 |          0 |          0 |          6 |
+| d:\Full Stack Websites\blogghar\eslint.config.mjs               | JavaScript         |         12 |          2 |          3 |         17 |
+| d:\Full Stack Websites\blogghar\jsconfig.json                   | JSON with Comments |          7 |          0 |          1 |          8 |
+| d:\Full Stack Websites\blogghar\lib\themeProvider.js            | JavaScript         |          9 |          0 |          4 |         13 |
+| d:\Full Stack Websites\blogghar\lib\utils.js                    | JavaScript         |          5 |          0 |          2 |          7 |
+| d:\Full Stack Websites\blogghar\next.config.mjs                 | JavaScript         |          4 |          2 |          2 |          8 |
+| d:\Full Stack Websites\blogghar\package-lock.json               | JSON               |      7,314 |          0 |          1 |      7,315 |
+| d:\Full Stack Websites\blogghar\package.json                    | JSON               |         32 |          0 |          1 |         33 |
+| d:\Full Stack Websites\blogghar\postcss.config.mjs              | JavaScript         |          6 |          0 |          2 |          8 |
+| d:\Full Stack Websites\blogghar\public\wavesOpacity_dark.svg    | XML                |          1 |          0 |          0 |          1 |
+| d:\Full Stack Websites\blogghar\public\wavesOpacity_light.svg   | XML                |          1 |          0 |          0 |          1 |
+| Total                                                           |                    |      8,469 |          4 |        128 |      8,601 |
++-----------------------------------------------------------------+--------------------+------------+------------+------------+------------+
