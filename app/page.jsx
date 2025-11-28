@@ -35,8 +35,8 @@ export default function Home() {
         <Image
           src={
             theme === "light"
-              ? "/wavesOpacity_light.svg"
-              : "/wavesOpacity_dark.svg"
+              ? "./wavesOpacity_light.svg"
+              : "./wavesOpacity_dark.svg"
           }
           alt="waves"
           width={1920}
