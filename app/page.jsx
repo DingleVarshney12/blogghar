@@ -20,12 +20,12 @@ export default function Home() {
   }, []);
 
 
-    useEffect(() => {
-      fetch('/api/blogs')
-        .then((res) => {  setLoading(false); return res.json();})
-        .then((data) => setData(data));
-    }, []);
-    
+  useEffect(() => {
+    fetch('/api/blogs')
+      .then((res) => { setLoading(false); return res.json(); })
+      .then((data) => setData(data));
+  }, []);
+
 
   if (!mounted) return null;
 
@@ -69,19 +69,19 @@ export default function Home() {
       </div>
 
       {loading ? (
-        <Loading/>
+        <Loading />
       ) : (
         <Container className="grid md:grid-cols-[1fr_auto] grid-cols-1 gap-8 my-16">
           <div>
             <h1 className="text-4xl font-bold tracking-tight">Top Blogs</h1>
             <div className="flex flex-wrap gap-4 mt-10">
-                {data.slice(0,3).map((blog) => (
+              {data.slice(0, 3).map((blog) => (
                 <BlogCard key={blog.id} {...blog} variant="compact" />
               ))}
             </div>
           </div>
-<RecommendLatestBlog/>
-          
+          <RecommendLatestBlog />
+
         </Container>
       )}
     </>
